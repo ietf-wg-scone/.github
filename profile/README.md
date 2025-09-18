@@ -9,7 +9,7 @@
 <table><tbody><tr><td valign="top">
    
 **Working Group Documents**
-</td><td valign="top">    
+</td><td valign="left">    
 - [Standard Communication with Network Elements (SCONE) Protocol](https://github.com/ietf-wg-scone/scone)
 - [Applicability and Manageability for SCONE protocol](https://github.com/ietf-wg-scone/appman)
 
