@@ -24,7 +24,7 @@
     
 **Implementations & Hackathons**
     
-- [Hackathons](https://github.com/ietf-wg-scone/Misc)
+- [Hackathons](https://github.com/ietf-wg-scone/Misc/wiki/SCONE%E2%80%90related-Hackathons)
     
 </td></tr></tbody></table>
 </div>
