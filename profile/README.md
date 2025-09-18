@@ -13,7 +13,7 @@
 - [Standard Communication with Network Elements (SCONE) Protocol](https://github.com/ietf-wg-scone/scone)
 - [Applicability and Manageability for SCONE protocol](https://github.com/ietf-wg-scone/appman)
  
-
+</td><td valign="top">
 
 
 **Logistic**
