@@ -11,7 +11,9 @@
 **Working Group Documents**
     
 </td><td valign="top">
-   
+- [Standard Communication with Network Elements (SCONE) Protocol](https://github.com/ietf-wg-scone/scone)
+- [Applicability and Manageability for SCONE protocol](https://github.com/ietf-wg-scone/appman)
+
 **Logistic**
 
 - [Meetings](https://github.com/ietf-wg-scone/wg-materials)
